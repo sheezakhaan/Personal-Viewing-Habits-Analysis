@@ -1,0 +1,510 @@
+ID,Titles,Release Year,Watch Year,Genre,Rating,Episodes,Duration (Minutes),Type,Country of Origin
+1,Bhagg Beanie Bhagg,2020,2020,"Comedy,Romance",3.6,6,29,TV Series,India
+2,Masaba Masaba S1,2020,2020,"Biography,Drama",6.7,13,50,TV Series,India
+3,Mismatched S1,2020,2020,"Drama,Romance",5.8,14,30,TV Series,India
+4,Fabulous Lives Of Bollywood Wives S1,2020,2020,"Documentary,Drama",4.3,8,35,TV Series,India
+5,Fabulous Lives Of Bollywood Wives S1,2022,2022,"Documentary,Drama",4.3,8,35,TV Series,India
+6,The Queen's Gambit,2020,2020,Drama,8.6,7,60,TV Series,USA
+7,What The Love! With Karan Johar,2020,2020,Drama,3.9,7,49,TV Series,USA
+8,Emily In Paris S1,2020,2020,"Romance,Comedy,Drama",6.9,10,30,TV Series,USA
+9,Emily In Paris S2,2021,2021,"Romance,Comedy,Drama",6.9,10,30,TV Series,USA
+10,Emily In Paris S3,2022,2022,"Romance,Comedy,Drama",6.9,10,30,TV Series,USA
+11,Gilmore Girls S1,2000,2020,"Romance,Comedy,Drama",8.2,21,44,TV Series,USA
+12,Gilmore Girls S2,2001,2021,"Romance,Comedy,Drama",8.2,22,44,TV Series,USA
+13,Gilmore Girls S3,2002,2021,"Romance,Comedy,Drama",8.2,22,44,TV Series,USA
+14,Gilmore Girls S4,2003,2021,"Romance,Comedy,Drama",8.2,22,44,TV Series,USA
+15,Gilmore Girls S5,2004,2021,"Romance,Comedy,Drama",8.2,22,44,TV Series,USA
+16,Gilmore Girls S6,2005,2021,"Romance,Comedy,Drama",8.2,22,44,TV Series,USA
+17,Gilmore Girls S7,2006,2021,"Romance,Comedy,Drama",8.2,22,44,TV Series,USA
+18,Gilmore Girls: A Year In The Life,2016,2022,"Romance,Comedy,Drama",7.5,5,89,TV Series,USA
+19,Little Things S1,2016,2018,"Romance,Drama",8.2,5,16,TV Series,USA
+20,Little Things S2,2018,2019,"Romance,Drama",8.2,8,23,TV Series,India
+21,Little Things S3,2019,2020,"Romance,Drama",8.2,8,27,TV Series,India
+22,Little Things S4,2021,2021,"Romance,Drama",8.2,8,30,TV Series,India
+23,Dash & Lily,2020,2020,"Romance,Drama",7.5,8,25,TV Series,India
+24,Falling Inn Love,2019,2019,"Romance,Comedy",5.6,,98,Movie,USA
+25,Pitch Perfect,2012,2019,"Musical,Romance,Comedy",7.1,,112,Movie,USA
+26,Pitch Perfect 2,2015,2019,"Musical,Romance,Comedy",6.4,,64,Movie,USA
+27,Pitch Perfect 3,2017,2019,"Musical,Romance,Comedy",5.8,,93,Movie,USA
+28,To All The Boys I've Loved Before,2018,2018,"Comedy,Drama,Romance",7.0,,99,Movie,USA
+29,To All The Boys I've Loved Before: P.S I Still Love You,2020,2020,"Comedy,Drama,Romance",6.0,,101,Movie,USA
+30,Divergent,2014,2020,"Action,Adventure,Thriller",6.6,,139,Movie,USA
+31,Divergent:Insurgent,2015,2020,"Action,Adventure,Thriller",6.2,,119,Movie,USA
+32,Divergent:Allegiant,2016,2020,"Action,Adventure,Thriller",5.7,,120,Movie,USA
+33,Set It Up,2018,2020,"Romance,Comedy",6.5,,105,Movie,USA
+34,All The Bright Places,2020,2020,"Drama,Romance",6.5,,107,Movie,USA
+35,Isn't It Romantic?,2019,2019,"Romance,Comedy",5.9,,89,Movie,USA
+36,The Platform,2019,2019,Thriller,7.0,,94,Movie,Spain
+37,Thappad,2020,2020,Drama,7.0,,142,Movie,India
+38,Room,2015,2019,"Drama,Thriller",8.1,,118,Movie,USA
+39,The Edge Of Seventeen,2016,2020,"Comedy,Drama",7.3,,104,Movie,USA
+40,Gully Boy,2019,2021,"Drama,Musical,Romance",7.9,,154,Movie,India
+41,Game Over,2019,2020,"Drama,Mystery,Thriller",6.9,,102,Movie,India
+42,The Doll,2016,2021,Horror,5.1,,107,Movie,Indonesia
+43,Before I Wake,2016,2021,"Drama,Fantasy,Horror",6.2,,97,Movie,USA
+44,Raising The Bar,2016,2020,"Drama,Family,Sports",5.5,,96,Movie,Australia
+45,Let It Snow,2019,2019,"Drama,Romance",5.8,,92,Movie,USA
+46,The Circle,2017,2020,"Drama,Sci-Fi",5.3,,60,Movie,USA
+47,The Founder,2016,2020,"Biography,Drama",7.2,,65,Movie,USA
+48,A Week Away,2021,2021,"Musical,Family,Romance",5.7,,121,Movie,USA
+49,Feel The Beat,2020,2020,"Musical,Drama",6.3,,109,Movie,USA
+50,Mismatched S2,2022,2022,"Drama,Romance",5.8,8,30,TV Series,India
+51,Persuation,2022,2022,"Drama,Romance",5.8,,108,Movie,USA
+52,Do Revenge,2022,2022,Comedy,6.3,,118,Movie,USA
+53,Laal Singh Chaddha,2022,2022,"Comedy,Drama,Romance",5.5,,159,Movie,India
+54,Jersey,2022,2023,Sports,7.3,,170,Movie,India
+55,Honeymoon,2022,2023,Comedy,6.2,,134,Movie,India
+56,Double Xl,2022,2023,Drama,4.6,,128,Movie,India
+57,Tara Vs Bilal,2022,2023,"Romance,Drama",5.7,,126,Movie,India
+58,M3gan,2022,2023,"Sci-Fi,Thriller",6.4,,102,Movie,USA
+59,Sick,2022,2023,Thriller,6.1,,83,Movie,USA
+60,Luckiest Girl Alive,2022,2023,Drama,6.4,,112,Movie,USA
+61,Jumping From High Places,2022,2023,"Drama,Romance",5.7,,88,Movie,Italy
+62,Fakes,2022,2023,Drama,6.4,10,30,TV Series,USA
+63,Kaleidoscope,2023,2023,"Adventure,Crime,Mystery",6.7,9,47,TV Series,USA
+64,Shadowhunters S1,2016,2016,"Action,Fantasy,Sci-Fi",6.5,13,42,TV Series,USA
+65,Shadowhunters S2,2017,2017,"Action,Fantasy,Sci-Fi",6.5,20,42,TV Series,USA
+66,Riverdale S1,2017,2017,"Drama,Mystery",6.6,13,45,TV Series,USA
+67,Riverdale S2,2017,2017,"Drama,Mystery",6.6,22,45,TV Series,USA
+68,Riverdale S3,2018,2018,"Drama,Mystery",6.6,22,45,TV Series,USA
+69,Dhamaka,2021,2023,"Crime,Drama,Thriller",7.1,,103,Movie,India
+70,Crashing,2016,2020,Comedy,7.7,6,30,TV Series,UK
+71,Friends From College S1,2017,2020,"Drama,Romance",6.9,8,30,TV Series,USA
+72,Friends From College S2,2019,2020,"Drama,Romance",6.9,8,30,TV Series,USA
+73,Derry Girls S1,2018,2018,Comedy,8.5,6,30,TV Series,UK
+74,Derry Girls S2,2019,2019,Comedy,8.5,6,26,TV Series,UK
+75,Dead To Me S1,2019,2020,"Crime,Drama,Comedy",8.0,10,30,TV Series,USA
+76,Dead To Me S2,2020,2020,"Crime,Drama,Comedy",8.0,10,30,TV Series,USA
+77,Good Girls S1,2018,2019,"Comedy,Crime,Drama",7.7,10,43,TV Series,USA
+78,Good Girls S2,2019,2020,"Comedy,Crime,Drama",7.7,13,43,TV Series,USA
+79,Good Girls S3,2020,2020,"Comedy,Crime,Drama",7.7,11,43,TV Series,USA
+80,Good Girls S4,2021,2021,"Comedy,Crime,Drama",7.7,16,43,TV Series,USA
+81,Trinkets S1,2019,2019,"Crime,Drama",7.1,10,30,TV Series,USA
+82,Trinkets S2,2020,2020,"Crime,Drama",7.1,10,30,TV Series,USA
+83,The Haunting Of Hill House,2018,2018,"Drama,Horror,Mystery",8.6,10,57,TV Series,UK
+84,Sherlock S1,2010,2019,"Crime,Mystery,Comedy,Drama",9.1,3,88,TV Series,UK
+85,Sherlock S2,2012,2019,"Crime,Mystery,Comedy,Drama",9.1,3,88,TV Series,UK
+86,Sherlock S3,2014,2019,"Crime,Mystery,Comedy,Drama",9.1,3,88,TV Series,UK
+87,Sherlock S4,2017,2019,"Crime,Mystery,Comedy,Drama",9.1,3,88,TV Series,USA
+88,Unbelievable,2019,2021,"Crime,Drama",8.4,8,46,TV Series,China
+89,Put Your Head On My Shoulder,2019,2021,Romance,8.1,24,45,TV Series,USA
+90,Stay Here,2018,2021,Drama,7.5,8,31,TV Series,UK
+91,Interior Design Masters,2019,2021,Drama,6.5,8,44,TV Series,USA
+92,Locke & Key,2020,2020,"Drama,Fantasy,Adventure",7.3,10,48,TV Series,USA
+93,Atypical S1,2017,2019,"Comedy,Drama",8.1,8,30,TV Series,USA
+94,Atypical S2,2018,2019,"Comedy,Drama",8.1,10,30,TV Series,USA
+95,Atypical S3,2019,2021,"Comedy,Drama",8.1,10,30,TV Series,USA
+96,Atypical S4,2021,2021,"Comedy,Drama",8.1,10,30,TV Series,USA
+97,Stranger Things S1,2016,2017,"Fantasy,Mystery,Sci-Fi,Thriller",8.7,8,51,TV Series,USA
+98,Stranger Things S2,2017,2017,"Fantasy,Mystery,Sci-Fi,Thriller",8.7,9,51,TV Series,USA
+99,Stranger Things S3,2019,2019,"Fantasy,Mystery,Sci-Fi,Thriller",8.7,8,51,TV Series,USA
+100,Stranger Things S4,2022,2022,"Fantasy,Mystery,Sci-Fi,Thriller",8.7,9,51,TV Series,USA
+101,Spinning Out,2020,2020,"Drama,Sports",7.6,10,48,TV Series,USA
+102,Never Have I Ever S1,2020,2020,"Comedy,Drama",7.9,10,30,TV Series,USA
+103,Never Have I Ever S2,2021,2021,"Comedy,Drama",7.9,10,30,TV Series,USA
+104,Never Have I Ever S3,2022,2022,"Comedy,Drama",7.9,10,30,TV Series,Mexico
+105,Control Z S1,2020,2020,"Drama,Thriller",8.5,8,37,TV Series,Mexico
+106,Control Z S2,2021,2021,"Drama,Thriller",8.5,8,37,TV Series,Mexico
+107,Control Z S3,2022,2022,"Drama,Thriller",8.5,8,37,TV Series,Pakistan
+108,Churails,2020,2020,"Drama,Mystery,Thriller",8.2,10,60,TV Series,UK
+109,Lovesick S1,2014,2019,Comedy,8.0,6,24,TV Series,UK
+110,Locksick S2,2016,2019,Comedy,8.0,8,24,TV Series,UK
+111,Locksick S3,2018,2019,Comedy,8.0,8,24,TV Series,UK
+112,Sick Note S1,2017,2020,Comedy,6.8,6,30,TV Series,UK
+113,Sick Note S2,2018,2020,Comedy,6.8,8,30,TV Series,India
+114,Darlings,2022,2022,"Drama,Comedy",6.6,,133,Movie,India
+115,Masaba Masaba S2,2022,2022,"Biography,Drama",6.7,9,50,TV Series,India
+116,House Arrest,2019,2021,"Comedy,Romance",5.5,,104,Movie,USA
+117,Carrie Pilby,2016,2022,Drama,6.7,,98,Movie,Poland
+118,Too Old For Fairy Tales,2022,2022,Family,6.2,,106,Movie,India
+119,Gangubai Kathiawadi,2022,2022,"Biography,Crime,Drama",7.8,,152,Movie,UK
+120,Man Vs Bee,2022,2021,"Comedy,Family",6.7,9,19,TV Series,India
+121,Comedy Premium League,2021,2022,Comedy,4.8,6,45,Stand-Up Comedy,India
+122,Aditi Mittal: Things They Wouldn'T Let Me Say,2017,2022,Comedy,4.4,,62,Stand-Up Comedy,India
+123,Ladies Up,2019,2022,Comedy,4.4,4,17,Stand-Up Comedy,India
+124,Kenny Sebastian: The Most Intersting Person In The Room,2020,2022,Comedy,6.0,,67,Stand-Up Comedy,South Korea
+125,Start Up,2020,2020,"Drama,Romance",8.0,16,84,TV Series,South Korea
+126,Misaeng,2014,2021,Drama,8.5,20,60,TV Series,South Korea
+127,Touch Your Heart,2019,2019,Romance,7.8,16,60,TV Series,South Korea
+128,Something In The Rain,2018,2018,"Drama,Romance",8.1,16,75,TV Series,South Korea
+129,Little Women,2022,2022,"Drama,Mystery",7.9,16,75,TV Series,USA
+130,Anthony Jeselnik: Thoughts And Prayers,2015,2022,Comedy,7.7,,59,Stand-Up Comedy,South Korea
+131,True Beauty,2020,2023,"Comedy,Drama,Romance",8.0,16,70,TV Series,USA
+132,How To Get Away With Murder S1,2014,2022,"Crime,Drama,Mystery,Thriller",8.1,15,43,TV Series,USA
+133,How To Get Away With Murder S2,2015,2022,"Crime,Drama,Mystery,Thriller",8.1,15,44,TV Series,USA
+134,How To Get Away With Murder S3,2016,2022,"Crime,Drama,Mystery,Thriller",8.1,15,45,TV Series,USA
+135,How To Get Away With Murder S4,2017,2022,"Crime,Drama,Mystery,Thriller",8.1,15,46,TV Series,USA
+136,How To Get Away With Murder S5,2018,2022,"Crime,Drama,Mystery,Thriller",8.1,15,47,TV Series,USA
+137,How To Get Away With Murder S6,2019,2022,"Crime,Drama,Mystery,Thriller",8.1,15,48,TV Series,USA
+138,Purple Hearts,2022,2022,"Drama,Romance",6.7,,122,Movie,USA
+139,The Sleepover,2020,2020,"Adventure,Family",5.7,,100,Movie,India
+140,Rajma Chawal,2018,2020,"Drama,Family",5.7,,117,Movie,USA
+141,Day Shift,2022,2022,"Action,Fantasy,Thriller",6.1,,113,Movie,India
+142,Nikamma,2022,2022,"Action,Thriller",2.6,,147,Movie,Turkey
+143,Love Tactics,2022,2022,"Comedy,Romance",5.2,,97,Movie,USA
+144,The Notebook,2004,2022,"Drama,Romance",7.8,,123,Movie,Poland
+145,Squared Love,2021,2021,Romance,5.1,,102,Movie,Spain
+146,Through My Window,2022,2022,"Drama,Romance",5.4,,116,Movie,USA
+147,Coded Bias,2020,2020,Documentary,6.7,,86,Movie,USA
+148,Memory Games,2018,2021,Documentary,6.7,,85,Movie,USA
+149,The Social Dilmma,2020,2020,"Documentary,Drama",7.6,,94,Movie,Canada
+150,Brave Blue World,2020,2020,Documentary,6.7,,50,Movie,USA
+151,The Great Hack,2019,2019,Documentary,7.0,,114,Movie,India
+152,Shershaah,2021,2021,"Action,Biography,War",8.3,,135,Movie,USA
+153,Out Of My League,2020,2020,"Comedy,Romance",6.4,,87,Movie,Indonesia
+154,A Perfect Fit,2021,2022,"Drama,Romance",5.4,,112,Movie,USA
+155,Good On Paper,2021,2021,"Comedy,Romance",5.6,,94,Movie,USA
+156,Valentine's Day,2010,2022,"Comedy,Romance",5.7,,125,Movie,USA
+157,The Fundamentals Of Caring,2016,2022,"Comedy,Drama",7.3,,67,Movie,USA
+158,I Feel Pretty,2018,2021,Comedy,5.6,,116,Movie,USA
+159,The Princess Switch,2018,2020,"Comedy,Drama,Family",6.1,,101,Movie,USA
+160,The Princess Switch: Switched Again,2020,2021,"Comedy,Drama,Family",5.4,,96,Movie,India
+161,Chopsticks,2019,2020,"Comedy,Drama",6.5,,100,Movie,USA
+162,One Day,2011,2020,"Drama,Romance",7.0,,107,Movie,USA
+163,He's All That,2021,2021,"Comedy,Romance",4.4,,88,Movie,Italy
+164,Still Out Of My League,2021,2021,"Comedy,Romance",5.6,,114,Movie,USA
+165,Dude,2018,2022,"Comedy,Drama",5.1,,97,Movie,USA
+166,Love Hard,2021,2021,"Comedy,Romance",6.3,,104,Movie,Spain
+167,Sounds Like Love,2021,2021,"Comedy,Romance",5.4,,110,Movie,USA
+168,Resort To Love,2021,2021,"Comedy,Romance",5.7,,101,Movie,USA
+169,Work It,2020,2020,Musical,6.1,,93,Movie,Mexico
+170,Anonymously Yours,2021,2021,"Drama,Romance",5.7,,100,Movie,South Korea
+171,What's Wrong With Secretary Kim,2018,2020,"Mystery,Drama,Romance",8.1,16,60,TV Series,South Korea
+172,Romance Is A Bonus Book,2019,2019,"Drama,Romance",8.0,16,62,TV Series,South Korea
+173,Oh My Venus,2015,2018,"Comedy,Romance",7.8,16,60,TV Series,South Korea
+174,My First First Love S1,2019,2020,"Drama,Romance",7.5,16,50,TV Series,South Korea
+175,Don't Dare To Dream,2016,2018,"Comedy,Romance",7.8,24,60,TV Series,South Korea
+176,Welcome To Wikiki S1,2018,2019,Comedy,8.2,20,65,TV Series,South Korea
+177,Radiant Office,2017,2019,"Drama,Romance",7.0,16,65,TV Series,South Korea
+178,Crash Landing On You,2019,2021,"Drama,Romance",8.7,19,70,TV Series,South Korea
+179,Doctors,2016,2021,"Drama,Romance",9.4,20,60,TV Series,South Korea
+180,Be Melodramatic,2019,2021,"Comedy,Romance",8.4,16,65,TV Series,South Korea
+181,Her Private Life,2019,2021,"Comedy,Romance",7.7,16,75,TV Series,South Korea
+182,Thirty Nine,2022,2022,"Drama,Romance",7.7,12,60,TV Series,South Korea
+183,Clean With Passion For Now,2018,2023,"Comedy,Romance",7.0,16,70,TV Series,South Korea
+184,Hello My Twenties S1,2016,2020,"Friendship,Romance,Comedy,Mystery",8.3,12,60,TV Series,USA
+185,Hello My Twenties S2,2017,2020,"Friendship,Romance,Comedy,Mystery",8.4,14,60,TV Series,USA
+186,The Intern,2015,2021,"Comedy,Drama",7.1,,121,Movie,India
+187,Girlboss,2017,2020,Comedy,7.0,13,26,TV Series,India
+188,Goodbye,2022,2023,Drama,6.8,,142,Movie,USA
+189,Cirkus,2022,2023,"Comedy,Drama",4.8,,139,Movie,South Korea
+190,Dead To Me S3,2022,2022,"Crime,Drama,Comedy",8.0,10,30,TV Series,India
+191,Squid Game S1,2021,2023,"Action,Drama,Thriller",8.0,10,55,TV Series,India
+192,Mirzapur S1,2018,2023,"Friendship,Romance,Comedy,Mystery",8.5,9,60,TV Series,India
+193,Mirzapur S2,2020,2023,"Friendship,Romance,Comedy,Mystery",8.5,10,60,TV Series,USA
+194,Fakes(Farzi),2023,2023,"Crime,Drama,Thriller",8.4,8,57,TV Series,India
+195,The Umbrella Academy S1,2019,2023,"Sci-Fi,Action,Adventure",7.9,10,59,TV Series,USA
+196,Andhadun,2018,2023,"Comedy,Crime",8.2,,139,Movie,USA
+197,The Tomorrow War,2021,2023,"Action,Sci-Fi",6.5,,138,Movie,India
+198,Goodnight Mommy,2014,2023,"Suspense,Thriller",5.6,,92,Movie,India
+199,Chor Nikal Ke Bhaga,2023,2023,"Drama,Thriller",7.9,,110,Movie,USA
+200,Raees,2017,2023,"Action,Crime",6.7,,143,Movie,Brazil
+201,Lost In Space,2018,2023,Sci-Fi,7.3,10,54,TV Series,India
+202,Confessions Of An Invisible Girl,2021,2023,Comedy,5.2,,91,Movie,USA
+203,Nazar Andaaz,2022,2023,"Drama,Comedy",7.3,,104,Movie,USA
+204,Interstellar,2014,2023,"Sci-Fi,Adventure",8.6,,169,Movie,USA
+205,Gravity,2013,2023,"Sci-Fi,Thriller",7.7,,91,Movie,India
+206,Stowaway,2021,2023,"Sci-Fi,Thriller",5.6,,116,Movie,USA
+207,Wedding Season,2022,2023,"Comedy,Romance,Thriller",6.3,,98,Movie,Spain
+208,Countdown: Inspiration4 Mission To Space,2021,2023,Documentary,7.8,5,46,TV Series,India
+209,Phenomena,2023,2023,"Horror,Suspense",6.7,,94,Movie,India
+210,Shehzada,2023,2023,"Action,Drama,Comedy",4.8,,145,Movie,India
+211,Shakuntala Devi,2020,2023,"Biography,Drama",6.1,,127,Movie,India
+212,Rocket Singh Salesman Of The Year,2009,2023,"Comedy,Drama",7.5,,155,Movie,USA
+213,Tumhari Sulu,2017,2023,"Comedy,Drama",7.0,,140,Movie,USA
+214,A Man Called Otto,2022,2023,"Comedy,Drama",7.4,,126,Movie,USA
+215,13 Going On 30,2004,2018,"Romance,Fantasy",6.3,,98,Movie,USA
+216,The Social Network,2010,2020,Drama,7.8,,120,Movie,USA
+217,Eat Pray Love,2010,2020,"Drama,Romance,Biography",5.8,,133,Movie,India
+218,Escape Room,2019,2021,"Adventure,Thriller",6.4,,99,Movie,India
+219,Notebook,2004,2023,"Drama,Romance",7.0,,115,Movie,USA
+220,Sui Dhaaga - Made In India,2018,2023,"Comedy,Drama",6.8,,123,Movie,Thailand
+221,Wednesday S1,2022,2023,"Fantasy,Mystery",8.1,8,45,TV Series,USA
+222,Hunger,2023,2023,"Drama,Thriller",6.6,,130,Movie,USA
+223,Beef,2023,2023,"Comedy,Drama",8.2,10,30,TV Series,USA
+224,Yes Day,2021,2021,"Comedy,Family",5.7,,86,Movie,USA
+225,Zathura: A Space Adventure,2005,2023,"Action,Adventure",6.2,,101,Movie,UK
+226,Awake,2021,2023,"Action,Adventure,Sci-Fi",4.9,,96,Movie,India
+227,The Diplomat,2023,2023,Drama,8.2,8,50,TV Series,India
+228,Dhan Dhana Dhan Goal,2007,2023,Sports,5.7,,156,Movie,India
+229,Toolsidas Junior,2022,2023,Sports,7.4,,130,Movie,India
+230,Freaky Ali,2016,2023,"Comedy,Sports",5.0,,119,Movie,India
+231,83,2021,2023,Sports,7.5,,160,Movie,India
+232,Bareilly Ki Barfi,2017,2022,"Comedy,Romance",7.5,,110,Movie,India
+233,Luka Chuppi,2019,2022,"Comedy,Romance",6.3,,125,Movie,India
+234,Mimi,2021,2022,Drama,7.9,,132,Movie,South Korea
+235,Dilwale,2015,2015,"Romance,Action,Comedy",5.3,,158,Movie,India
+236,#Alive,2020,2023,"Drama,Thriller",6.2,,98,Movie,India
+237,Afwaah,2023,2023,Drama,5.6,,126,Movie,India
+238,Bhool Bhulaiyaa 2,2022,2023,"Horror,Comedy",5.7,,143,Movie,India
+239,Tuesdays & Fridays,2021,2023,"Romance,Comedy",4.1,,106,Movie,USA
+240,Tu Jhooti Main Makkaar,2023,2023,Drama,6.0,,150,Movie,India
+241,Sweet Tooth,2021,2023,"Fantasy,Drama",7.8,8,50,TV Series,India
+242,She S1,2020,2023,"Crime,Drama",6.6,7,36,TV Series,India
+243,She S2,2022,2023,"Crime,Drama",6.6,7,50,TV Series,India
+244,Jamtara- Sabka Number Ayega S1,2020,2023,"Crime,Drama",7.4,10,29,TV Series,India
+245,Jamtara- Sabka Number Ayega S2,2022,2023,"Crime,Drama",7.4,8,29,TV Series,India
+246,Ok Jaanu,2017,2023,"Romance,Drama",5.1,,135,Movie,India
+247,Mubarakan,2017,2023,"Comedy,Family",5.6,,156,Movie,India
+248,Missing,2023,2023,"Mystery,Thriller",6.2,,120,Movie,India
+249,Ghost Stories,2020,2023,"Horror,Thriller",4.3,,144,Movie,India
+250,Life In A Metro,2007,2023,"Drama,Romance",7.3,,131,Movie,India
+251,Gurgaon,2017,2023,"Thriller,Drama",6.6,,107,Movie,India
+252,Hit: The First Case,2022,2023,"Crime,Thriller",6.8,,132,Movie,India
+253,Ghumraah,2023,2023,"Crime,Thriller",6.4,,130,Movie,India
+254,Lust Stories S1,2018,2023,"Drama,Romance",6.6,,120,Movie,Italy
+255,Lust Stories S2,2023,2023,"Drama,Romance",5.9,,132,Movie,USA
+256,Har Kisse Ke Hisse: Kaamyaab,2020,2023,Drama,7.8,,109,Movie,USA
+257,"Devotion, a Story of Love and Desire",2022,2023,"Drama,Romance",6.4,6,40,TV Series,USA
+258,Oppenheimer,2023,2023,Drama,8.6,,180,Movie,USA
+259,What Happens in Vegas,2008,2023,"Comedy,Romance",6.1,,99,Movie,USA
+260,He Is Just Not That Into You,2009,2023,"Comedy,Drama,Romance",6.4,,129,Movie,USA
+261,Someone Great,2019,2023,"Comedy,Romance",6.1,,92,Movie,Canada
+262,Late Night,2019,2023,"Comedy,Drama",6.5,,102,Movie,Canada
+263,Julie & Julia,2009,2023,"Biography,Drama",7.0,,123,Movie,India
+264,Workin' Moms S1,2017,2023,"Comedy,Drama",7.8,13,30,TV Series,USA
+265,Workin' Moms S2,2018,2023,"Comedy,Drama",7.8,13,30,TV Series,USA
+266,Baazaar,2018,2023,"Crime,Drama,Thriller",6.5,,137,Movie,USA
+267,The Ugly Truth,2009,2023,"Comedy,Romance",6.4,,96,Movie,UK
+268,Little Women,1994,2023,"Drama,Family,Romance",7.3,,115,Movie,USA
+269,Print The Legend,2014,2023,"Documentary,Biography,Drama",7.0,,100,Movie,USA
+270,The Guernsey Literary and Potato Peel Pie Society,2018,2023,"Drama,Romance,War",7.3,,124,Movie,USA
+271,The Bold Type S1,2017,2021,Drama,7.8,10,45,TV Series,USA
+272,The Bold Type S2,2018,2021,Drama,7.8,10,46,TV Series,USA
+273,The Bold Type S3,2019,2021,Drama,7.8,10,47,TV Series,USA
+274,The Bold Type S4,2020,2021,Drama,7.8,16,48,TV Series,USA
+275,The Bold Type S5,2021,2021,Drama,7.8,6,49,TV Series,USA
+276,Self Made: Inspired By The Life Of Madam C.J. Walker,2020,2021,"Biography,Drama",7.3,4,47,TV Series,Japan
+277,Otherhood,2019,2023,Comedy,6.1,,100,Movie,Japan
+278,Sense And Sensibility,1995,2023,"Drama,Romance",7.7,,136,Movie,USA
+279,Alice In The Borderland S1,2020,2023,"Sci-Fi,Thriller",7.7,8,50,TV Series,USA
+280,Alice In The Borderland S2,2022,2023,"Sci-Fi,Thriller",7.7,8,50,TV Series,France
+281,What Men Want,2019,2023,"Comedy,Romance",5.4,,117,Movie,India
+282,Dahmer,2022,2023,"Biography,Drama,Crime",7.9,10,45,TV Series,India
+283,Friendzone,2021,2023,"Comedy,Romance",5.9,,88,Movie,France
+284,Badla,2019,2023,"Crime,Drama,Mystery",7.8,,118,Movie,USA
+285,Shabaash Mithu,2022,2023,"Biography,Drama,Sports",5.6,,156,Movie,USA
+286,I Am Not An Easy Man,2018,2023,"Comedy,Fantasy,Romance",6.3,,98,Movie,India
+287,Becoming,2020,2023,Documentary,7.0,,89,Movie,USA
+288,True Spirit,2023,2023,Family,6.8,,109,Movie,USA
+289,Dobaaraa,2022,2023,"Drama,Fantasy,Mystery",4.7,,132,Movie,USA
+290,To The Bone,2017,2023,Drama,6.8,,107,Movie,USA
+291,Happiness For Beginners,2023,2023,"Comedy,Drama,Romance",6.0,,103,Movie,USA
+292,Finding You,2020,2023,Romance,6.4,,119,Movie,USA
+293,Moms' Night Out,2014,2023,Comedy,5.3,,98,Movie,USA
+294,Nappily Ever After,2018,2023,"Comedy,Drama,Romance",6.4,,98,Movie,USA
+295,All Together Now,2020,2023,Drama,6.5,,93,Movie,USA
+296,Shakuntala Devi,2020,2024,"Biography,Drama",6.2,,127,Movie,India
+297,Late Night,2019,2024,"Comedy,Drama",6.5,,102,Movie,USA
+298,Barbarian,2022,2024,"Horror,Mystery,Thriller",7.0,,102,Movie,USA
+299,Upgraded,2024,2024,"Comedy,Romance",6.1,,104,Movie,USA
+300,October,2018,2024,"Drama,Romance",7.5,,115,Movie,India
+301,Sijjin,2023,2024,"Horror,Thriller",5.4,,100,Movie,Indonesia
+302,Thirteen Lives,2022,2024,"Biography,Drama,Thriller",7.8,,147,Movie,USA
+303,12th Fail,2023,2024,"Biography,Drama",8.7,,147,Movie,India
+304,Shaitaan,2024,2024,"Horror,Thriller",6.5,,132,Movie,India
+305,Laapataa Ladies,2023,2024,"Comedy,Drama",8.3,,122,Movie,India
+306,Nowhere,2023,2024,"Drama,Thriller",6.3,,109,Movie,Spain
+307,Heeramandi: The Diamond Bazaar,2024,2024,"Drama,Romance",6.3,8,60,TV Series,India
+308,Malaal,2019,2024,"Drama,Romance",5.9,,136,Movie,India
+309,Cast Away,2000,2024,"Adventure,Drama",7.8,,143,Movie,USA
+310,Maid,2021,2024,Drama,8.3,10,50,TV Series,USA
+311,Dear Child,2023,2024,"Crime,Drama,Mystery",7.4,6,45,TV Series,Germany
+312,Muted,2023,2024,"Crime,Drama,Thriller",5.6,6,45,TV Series,Spain
+313,Anyone But You,2023,2024,"Comedy,Romance",6.1,,103,Movie,USA
+314,AJ and the Queen,2020,2024,"Comedy,Drama",7.5,10,52,TV Series,USA
+315,Keep Breathing,2022,2024,"Drama,Thriller",5.3,6,35,TV Series,USA
+316,Sukhee,2023,2024,"Comedy,Drama",6.0,,139,Movie,India
+317,The Woman in the House Across the Street From the Girl in the Window,2022,2024,"Comedy,Crime,Drama",6.4,8,25,TV Series,USA
+318,Thank You For Coming,2023,2024,Comedy,4.1,,117,Movie,India
+319,Pretty Woman,1990,2024,"Comedy,Romance",7.1,,119,Movie,USA
+320,Crew,2024,2024,"Comedy,Drama",5.8,,118,Movie,India
+321,Mrs. Harris Goes to Paris,2022,2024,"Comedy,Drama",7.1,,115,Movie,UK
+322,Bridgeton S1,2020,2024,"Drama,Romance",7.4,8,60,TV Series,USA
+323,Bridgeton S2,2022,2024,"Drama,Romance",7.4,8,60,TV Series,USA
+324,Bridgeton S3,2024,2024,"Drama,Romance",7.4,8,60,TV Series,USA
+325,Workin' Moms S3,2019,2024,"Comedy,Drama",7.8,13,23,TV Series,Canada
+326,Workin' Moms S4,2020,2024,"Comedy,Drama",7.8,8,23,TV Series,Canada
+327,Workin' Moms S5,2021,2024,"Comedy,Drama",7.8,10,23,TV Series,Canada
+328,Workin' Moms S6,2022,2024,"Comedy,Drama",7.8,13,23,TV Series,Canada
+329,Workin' Moms S7,2023,2024,"Comedy,Drama",7.8,13,23,TV Series,Canada
+330,Shastry Virudh Shastry,2023,2024,"Drama,Family",6.9,,129,Movie,India
+331,You S1,2018,2024,"Crime,Drama,Romance",7.7,10,45,TV Series,USA
+332,You S2,2019,2024,"Crime,Drama,Romance",7.7,10,45,TV Series,USA
+333,You S3,2021,2024,"Crime,Drama,Romance",7.7,10,45,TV Series,USA
+334,You S4,2023,2024,"Crime,Drama,Romance",7.7,10,45,TV Series,USA
+335,You S5,2025,2024,"Crime,Drama,Romance",7.7,10,45,TV Series,USA
+336,Mr. & Mrs. Mahi,2024,2024,"Drama,Sports",6.8,,139,Movie,India
+337,Tarot,2024,2024,Horror,4.8,,92,Movie,USA
+338,Savi,2024,2024,"Action,Thriller",5.4,,120,Movie,India
+339,Phir Aayi Hasseen Dillruba,2024,2024,"Crime,Drama,Romance",5.7,,132,Movie,India
+340,Emily In Paris S4,2024,2024,"Comedy,Drama,Romance",6.9,10,30,TV Series,USA
+341,Fatherhood,2021,2024,"Comedy,Drama",6.6,,109,Movie,USA
+342,Srikanth,2024,2024,"Biography,Drama",7.3,,134,Movie,India
+343,Mili,2022,2024,"Drama,Thriller",6.5,,127,Movie,India
+344,Dasvi,2022,2024,"Comedy,Drama",7.1,,127,Movie,India
+345,Ctrl,2024,2024,"Drama,Thriller",6.0,,99,Movie,India
+346,Romance in Style,2022,2024,"Comedy,Romance",6.2,,84,Movie,Canada
+347,Derry Girls S3,2022,2024,Comedy,8.5,7,23,TV Series,UK
+348,The Perfect Find,2023,2024,"Comedy,Drama,Romance",5.2,,99,Movie,USA
+349,Do Patti,2024,2024,"Crime,Drama,Mystery",6.0,,126,Movie,India
+350,Notting Hill,1999,2024,"Comedy,Romance",7.2,,124,Movie,UK
+351,Fabulous Lives of Bollywood Wives S3,2024,2024,Drama,4.3,8,45,TV Series,India
+352,How to Lose a Guy in 10 Days,2003,2024,"Comedy,Romance",6.4,,116,Movie,USA
+353,Gifted,2017,2024,Drama,7.6,,101,Movie,USA
+354,Working: What We Do All Day,2023,2024,Documentary,7.8,4,50,TV Series,USA
+355,Geek Girl,2024,2024,"Comedy,Drama",7.3,10,30,TV Series,UK
+356,Gossip Girl S1,2007,2024,"Drama,Romance",7.5,18,42,TV Series,USA
+357,Gossip Girl S2,2008,2024,"Drama,Romance",7.5,25,42,TV Series,USA
+358,Gossip Girl S3,2009,2024,"Drama,Romance",7.5,22,42,TV Series,USA
+359,The Buckingham Murders,2023,2024,"Crime,Drama,Mystery",7.0,,107,Movie,India
+360,Vijay 69,2024,2024,"Comedy,Drama",6.7,,112,Movie,India
+361,Blue Miracle,2021,2024,"Adventure,Drama",6.6,,95,Movie,Mexico
+362,Guns & Gulaabs,2023,2024,"Comedy,Crime,Romance",7.7,7,45,TV Series,India
+363,Jigra,2024,2025,"Action,Drama,Thriller",6.7,,153,Movie,India
+364,Maska,2020,2025,"Comedy,Drama",6.0,,111,Movie,India
+365,Friday Night Plan,2023,2025,"Comedy,Drama",5.8,,109,Movie,India
+366,Missing You,2025,2025,"Crime,Drama,Mystery",6.6,5,50,TV Series,UK
+367,It Ends With Us,2024,2025,"Drama,Romance",6.4,,130,Movie,USA
+368,Love at First Sight,2023,2025,"Comedy,Drama,Romance",6.8,,91,Movie,USA
+369,Slumberland,2022,2025,"Adventure,Comedy,Family",6.3,,117,Movie,USA
+370,Genie,2023,2025,"Comedy,Fantasy",5.7,,93,Movie,UK
+371,A Boy Called Christmas,2021,2025,"Adventure,Family,Fantasy",6.7,,106,Movie,UK
+372,Nobody Wants This,2024,2025,"Comedy,Romance",7.8,10,25,TV Series,USA
+373,Mary,2024,2025,"Adventure,Drama",5.9,,112,Movie,UK
+374,Bharat,2019,2025,"Drama,Romance",4.9,,150,Movie,India
+375,Lucky Baskhar,2024,2025,"Crime,Drama,Thriller",8.0,,149,Movie,India
+376,Sikandar Ka Muqaddar,2024,2025,"Crime,Drama,Thriller",5.9,,142,Movie,India
+377,Rudy,1993,2025,"Biography,Drama,Sports",7.5,,114,Movie,USA
+378,A Man on the Inside,2024,2025,"Comedy,Crime",7.8,8,30,TV Series,USA
+379,Dil Chahta Hai,2001,2025,"Comedy,Drama,Romance",8.1,,183,Movie,India
+380,Dhokha: Round D Corner,2022,2025,"Drama,Thriller",5.4,,122,Movie,India
+381,Raat Akeli Hai,2020,2025,"Crime,Drama,Mystery",7.2,,149,Movie,India
+382,Serious Men,2020,2025,"Comedy,Drama",6.8,,114,Movie,India
+383,Black Warrant,2025,2025,"Crime,Drama",7.8,7,45,TV Series,India
+384,Choked: Paisa Bolta Hai,2020,2025,Drama,5.8,,114,Movie,India
+385,Bhakshak,2024,2025,"Crime,Drama",7.2,,134,Movie,India
+386,Mona Lisa Smile,2003,2025,"Drama,Romance",6.5,,117,Movie,USA
+387,A Wednesday,2008,2025,"Action,Drama,Thriller",8.1,,104,Movie,India
+388,Mismatched S3,2024,2025,"Comedy,Drama,Romance",7.0,8,40,TV Series,India
+389,The Helicopter Heist,2024,2025,"Crime,Drama,Thriller",6.8,8,45,TV Series,Sweden
+390,Black Doves S1,2024,2025,"Action,Drama,Thriller",7.3,6,50,TV Series,UK
+391,The Starling,2021,2025,"Comedy,Drama",6.3,,103,Movie,USA
+392,Frida,2002,2025,"Biography,Drama,Romance",7.3,,123,Movie,USA
+393,American Beauty,1999,2025,Drama,8.3,,122,Movie,USA
+394,Nadaaniyan,2025,2025,"Comedy,Romance",5.9,,119,Movie,India
+395,It's What's Inside,2024,2025,"Comedy,Horror,Mystery",6.6,,103,Movie,USA
+396,Pagglait,2021,2025,"Comedy,Drama",6.9,,114,Movie,India
+397,Bird Box,2018,2025,"Drama,Horror,Sci-Fi",6.6,,124,Movie,USA
+398,Dabba Cartel,2025,2025,"Crime,Drama",6.8,7,45,TV Series,India
+399,Carry-On,2024,2025,"Action,Thriller",6.5,,119,Movie,USA
+400,The Theory of Everything,2014,2025,"Biography,Drama,Romance",7.7,,123,Movie,UK
+401,A Fortunate Man,2018,2025,Drama,7.2,,162,Movie,Denmark
+402,Murder Mubarak,2024,2025,"Comedy,Crime,Mystery",5.9,,142,Movie,India
+403,Scent of a Woman,1992,2025,Drama,8.0,,156,Movie,USA
+404,Murder Mindfully,2024,2025,"Comedy,Crime",6.8,8,30,TV Series,Germany
+405,Erin Brockovich,2000,2025,"Biography,Drama",7.7,,131,Movie,USA
+406,Jerry Maguire,1996,2025,"Comedy,Drama,Romance",7.3,,139,Movie,USA
+407,Leave the World Behind,2023,2025,"Drama,Thriller",6.4,,138,Movie,USA
+408,Guru,2007,2025,"Biography,Drama",7.7,,166,Movie,India
+409,A Little Princess,1995,2025,"Drama,Family,Fantasy",7.6,,97,Movie,USA
+410,Adolescence,2025,2025,"Crime,Drama",8.0,4,55,TV Series,UK
+411,Money Monster,2016,2025,"Crime,Drama,Thriller",6.5,,98,Movie,USA
+412,The Haunted Hotel,2025,2025,Horror,5.5,,95,Movie,UK
+413,Anuja,2024,2025,Drama,7.1,,22,Movie,India
+414,Deva,2025,2025,"Action,Crime,Thriller",6.4,,156,Movie,India
+415,Amar Singh Chamkila,2024,2025,"Biography,Drama,Musical",7.8,,146,Movie,India
+416,Paan Singh Tomar,2012,2025,"Biography,Crime,Drama",8.2,,135,Movie,India
+417,Test,2025,2025,"Drama,Sports",6.8,,146,Movie,India
+418,Sacred Games S1,2018,2025,"Crime,Drama,Thriller",8.5,8,55,TV Series,India
+419,Sacred Games S2,2019,2025,"Crime,Drama,Thriller",8.5,8,55,TV Series,India
+420,Sector 36,2024,2025,"Crime,Drama,Thriller",7.2,,124,Movie,India
+421,Maharaja,2024,2025,"Action,Crime,Drama",8.4,,140,Movie,India
+422,Monster,2021,2025,Drama,7.6,,90,Movie,Indonesia
+423,When Life Gives You Tangerines,2025,2025,"Drama,Romance",9.0,16,60,TV Series,South Korea
+424,Maharaj,2024,2025,"Biography,Drama",7.0,,131,Movie,India
+425,Laila Majnu,2018,2025,"Drama,Romance",7.7,,140,Movie,India
+426,Madam Chief Minister,2021,2025,Drama,4.8,,120,Movie,India
+427,Chasing the Wind,2025,2025,"Drama,Romance",6.4,,110,Movie,USA
+428,When They See Us,2019,2025,"Biography,Crime,Drama",8.9,4,70,TV Series,USA
+429,Tribhuvan Mishra CA Topper,2024,2025,"Comedy,Crime,Drama",7.2,9,40,TV Series,India
+430,Jewel Thief - The Heist Begins,2025,2025,"Action,Crime,Thriller",4.4,,116,Movie,India
+431,Nonna,2025,2025,Drama,6.4,,100,Movie,USA
+432,Apostle,2018,2025,"Drama,Horror,Mystery",6.3,,130,Movie,UK
+433,Thanksgiving,2023,2025,"Horror,Thriller",6.2,,106,Movie,USA
+434,Where Hope Grows,2014,2025,"Drama,Family",6.6,,95,Movie,USA
+435,The White Tiger,2021,2025,"Crime,Drama",7.1,,125,Movie,India
+436,Aadujeevitham: The Goat Life,2024,2025,"Adventure,Drama",7.7,,173,Movie,India
+437,Bad Influence,2025,2025,"Thriller,Romance",4.5,,104,Movie,Spain
+438,Love & Other Drugs,2010,2025,"Comedy,Drama,Romance",6.7,,112,Movie,USA
+439,Ludo,2020,2025,"Comedy,Crime,Drama",7.5,,149,Movie,India
+440,Ittefaq,2017,2025,"Crime,Mystery,Thriller",7.2,,105,Movie,India
+441,Kill Boksoon,2023,2025,"Action,Crime,Drama",6.6,,137,Movie,South Korea
+442,Deemak,2024,2025,Horror,5.4,,95,Movie,Pakistan
+443,Final Destination Bloodlines,2025,2025,"Horror,Thriller",6.8,,110,Movie,USA
+444,Aap Jaisa Koi,2025,2025,"Comedy,Drama,Romance",5.8,,115,Movie,India
+445,The Guilty,2021,2025,"Crime,Drama,Thriller",6.3,,90,Movie,USA
+446,The Life List,2025,2025,"Comedy,Drama,Romance",6.7,,123,Movie,USA
+447,Vir Das: Fool Volume,2025,2025,Comedy,6.8,,68,Stand-Up Comedy,India
+448,Black Mirror S1,2011,2025,"Drama,Sci-Fi,Thriller",8.7,3,60,TV Series,UK
+449,Satisfaction,2014,2025,Drama,7.1,10,45,TV Series,USA
+450,Eileen,2023,2025,"Drama,Thriller",6.1,,97,Movie,USA
+451,Jogi,2022,2025,Drama,7.4,,116,Movie,India
+452,The Children's Train,2024,2025,Drama,6.6,,106,Movie,Italy
+453,My Oxford Year,2025,2025,"Comedy,Drama,Romance",6.0,,112,Movie,USA
+454,Lost in Translation,2003,2025,"Comedy,Drama",7.7,,102,Movie,USA
+455,Closer,2004,2025,"Drama,Romance",7.2,,104,Movie,USA
+456,Pride & Prejudice,2005,2025,"Drama,Romance",7.8,,129,Movie,UK
+457,Sardaar Ji 3,2025,2025,"Comedy,Fantasy",6.3,,140,Movie,India
+458,Saiyaara,2025,2025,"Drama,Romance",7.2,,156,Movie,India
+459,Metro In Dino,2025,2025,"Comedy,Drama,Romance",6.7,,163,Movie,India
+460,The Ba***ds of Bollywood,2025,2025,"Comedy,Drama",7.1,8,45,TV Series,India
+461,Lost Girls,2020,2025,"Crime,Drama,Mystery",6.4,,95,Movie,USA
+462,No One Gets Out Alive,2021,2025,"Drama,Horror,Mystery",5.4,,97,Movie,USA
+463,Dhoom Dhaam,2025,2025,"Action,Comedy,Romance",6.3,,108,Movie,India
+464,She Came to Me,2023,2025,"Comedy,Drama,Romance",6.0,,102,Movie,USA
+465,Kho Gaye Hum Kahan,2023,2025,"Comedy,Drama",7.4,,134,Movie,India
+466,October Sky,1999,2025,"Biography,Drama,Family",7.8,,108,Movie,USA
+467,Greater Kalesh,2025,2025,"Comedy,Drama",6.0,,100,Movie,India
+468,Karma,2025,2025,Drama,6.0,,100,Movie,India
+469,Sirens,2025,2025,"Comedy,Drama",6.7,5,50,TV Series,USA
+470,The Internship,2013,2025,Comedy,6.3,,119,Movie,USA
+471,The Thursday Murder Club,2025,2025,"Comedy,Crime,Mystery",6.7,,118,Movie,UK
+472,Good Will Hunting,1997,2025,"Drama,Romance",8.3,,126,Movie,USA
+473,From Scratch,2022,2025,"Drama,Romance",7.8,8,55,TV Series,USA
+474,Dhadak 2,2025,2025,"Drama,Romance",5.4,,135,Movie,India
+475,Catch and Release,2006,2025,"Comedy,Drama,Romance",5.9,,111,Movie,USA
+476,The Conjuring: Last Rites,2025,2025,"Horror,Mystery,Thriller",6.2,,135,Movie,USA
+477,Haq,2025,2026,Drama,6.8,,130,Movie,India
+478,Single Salma,2025,2026,"Comedy,Drama,Romance",5.8,,120,Movie,India
+479,Mardaani,2014,2026,"Action,Crime,Drama",7.3,,113,Movie,India
+480,Mardaani 2,2019,2026,"Action,Crime,Drama",7.3,,103,Movie,India
+481,Ek Chatur Naar,2025,2026,"Comedy,Drama",6.2,,110,Movie,India
+482,Delhi Crime S1,2019,2026,"Crime,Drama",8.5,7,50,TV Series,India
+483,Delhi Crime S2,2022,2026,"Crime,Drama",8.5,5,50,TV Series,India
+484,Delhi Crime S3,2025,2026,"Crime,Drama",8.5,7,50,TV Series,India
+485,50/50,2011,2026,"Comedy,Drama",7.6,,100,Movie,USA
+486,Taskaree: The Smuggler's Web,2025,2026,"Crime,Drama",6.6,6,45,TV Series,India
+487,Cash Queens,2025,2026,"Comedy,Drama",6.2,8,35,TV Series,India
+488,Bad Influencer,2025,2026,"Comedy,Drama",6.0,10,35,TV Series,India
+489,The Art of Sarah,2025,2026,Drama,6.4,,100,Movie,USA
+490,Sleepless in Seattle,1993,2026,"Comedy,Drama,Romance",6.8,,105,Movie,USA
+491,Indecent Proposal,1993,2026,"Drama,Romance",6.0,,117,Movie,USA
+492,Tu Yaa Main,2026,2026,"Drama,Romance",6.0,,120,Movie,India
+493,Can This Love Be Translated?,2026,2026,Romance,7.0,12,60,TV Series,South Korea
+494,Kartavya,2025,2026,Drama,6.5,,120,Movie,India
+495,Maa Behen,2025,2026,Drama,6.2,,110,Movie,India
+496,Mardani 3,2026,2026,"Action,Crime,Drama",6.5,,120,Movie,India
+497,Soni,2018,2026,"Crime,Drama",7.2,,97,Movie,India
+498,Marriage Story,2019,2026,"Drama,Romance",7.9,,137,Movie,USA
+499,Man Vs Baby,2025,2026,Comedy,6.8,4,30,TV Series,UK
+500,Hum Tum,2004,2026,"Comedy,Drama,Romance",7.0,,142,Movie,India
+501,Bad Genius,2017,2026,"Crime,Drama,Thriller",6.7,,130,Movie,Thailand
+502,Bounce,2000,2026,"Drama,Romance",5.7,,106,Movie,USA
+503,Emily In Paris S5,2025,2026,"Comedy,Drama,Romance",6.9,10,30,TV Series,USA
+504,Weak Hero S1,2022,2026,"Action,Drama",8.5,16,45,TV Series,South Korea
+505,Weak Hero S2,2025,2026,"Action,Drama",8.5,,43,TV Series,South Korea
+506,No Reservations,2007,2026,"Comedy,Drama,Romance",6.3,,104,Movie,USA
+507,The Hustle,2019,2026,"Comedy,Crime",5.4,,94,Movie,USA
+508,Mousetrap,2024,2026,"Horror,Thriller",4.7,,80,Movie,UK
+509,All-Time High,2023,2026,"Comedy,Romance",5.4,,103,Movie,France
